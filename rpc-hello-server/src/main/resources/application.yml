@@ -1,0 +1,8 @@
+
+rpc:
+  port: 8000
+  registry-address: localhost:2181
+
+logging:
+  level:
+    com.wj5633: debug
